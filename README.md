@@ -1,4 +1,4 @@
-#(COVID-19) SIMPLE API
+## Simple Covid 19 API 
 
 ## Live Demo 
 https://corona.dev (Source Code: https://github.com/veecthorpaul/covid-19-tracker)
